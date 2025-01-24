@@ -1,2 +1,3 @@
 # maryrose-hw
-Codecademy exercise
+## Mary Rose's javascript homework comments
+A Codecademy exercise
